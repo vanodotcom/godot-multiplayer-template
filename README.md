@@ -2,6 +2,8 @@
 
 A simple multiplayer template for Godot 4 where players can move around together in real-time.
 
+<img src="assets/img.png" alt="Godot Wifi Image" width="500"/>
+
 ## What This Is
 
 This template lets you create a basic multiplayer game where:
