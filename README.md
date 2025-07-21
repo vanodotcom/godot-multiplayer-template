@@ -13,7 +13,7 @@ This template lets you create a basic multiplayer game where:
 
 ### Testing on Your Computer
 1. Open the project in Godot 4
-2. Export the project as an executable
+2. Export the project as an executable (optional)
 3. Run the exported game twice (two windows)
 4. In one window, click "Host"
 5. In the other window, type "127.0.0.1" and click "Join"
